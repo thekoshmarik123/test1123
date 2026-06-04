@@ -1,0 +1,523 @@
+[
+    {
+        "company": "1ТД",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 881773607,
+                "username": "+7 903 975 4882"
+            }
+        ]
+    },
+    {
+        "company": "2БК",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 881773607,
+                "username": "+7 903 975 4882"
+            }
+        ]
+    },
+    {
+        "company": "3АБ",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 881773607,
+                "username": "+7 903 975 4882"
+            }
+        ]
+    },
+    {
+        "company": "4СЭ",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            }
+        ]
+    },
+    {
+        "company": "5НВ",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 246170448,
+                "username": "Zemlyaninnet"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            }
+        ]
+    },
+    {
+        "company": "6И М",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 246170448,
+                "username": "Zemlyaninnet"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            }
+        ]
+    },
+    {
+        "company": "7МО",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+			{
+                "chat_id": 1552470868,
+                "username": "+7 925 695 2660"
+            },
+			{
+                "chat_id": 361571970,
+                "username": "+7 916 919 4080"
+            },
+            {
+                "chat_id": 1745272073,
+                "username": "+7 915 003 1327"
+            }
+        ]
+    },
+    {
+        "company": "8ПЗО",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+            {
+                "chat_id": 361571970,
+                "username": "+7 916 919-40-80"
+            }
+        ]
+    },
+    {
+        "company": "9И Ку",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            }
+        ]
+    },
+    {
+        "company": "10И К",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 881773607,
+                "username": "+7 903 975 4882"
+            }
+        ]
+    },
+    {
+        "company": "11И Фи",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 881773607,
+                "username": "+7 903 975 4882"
+            }
+        ]
+    },
+    {
+        "company": "12И П",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            }
+        ]
+    },
+    {
+        "company": "13И Еф",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 361571970,
+                "username": "+7 916 919-40-80"
+            }
+        ]
+    },
+	{
+        "company": "14И Фё",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 1009559005,
+                "username": "+7 903 509 0300"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+            {
+                "chat_id": 881773607,
+                "username": "+7 903 975 4882"
+            }
+        ]
+    },
+	{
+        "company": "15И Се",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+                "chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+			{
+                "chat_id": 1552470868,
+                "username": "+7 925 695 2660"
+            },
+			{
+                "chat_id": 361571970,
+                "username": "+7 916 919 4080"
+            },
+            {
+                "chat_id": 1745272073,
+                "username": "+7 915 003 1327"
+            }
+        ]
+    },
+	{
+        "company": "16И Сер.И",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+				"chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            }
+        ]
+    },
+	{
+        "company": "17УК ПРО",
+        "contacts": [
+            {
+                "chat_id": 195536107,
+                "username": "GoBL1n_lIl"
+            },
+            {
+                "chat_id": 649366503,
+                "username": "DAKulik"
+            },
+			{
+                "chat_id": 1037999524,
+                "username": "+7 925 695 2660"
+            },
+            {
+                "chat_id": 1417371676,
+                "username": "+7 963 711 8753"
+            },
+            {
+				"chat_id": 559682970,
+                "username": "+7 926 499 0369"
+            }
+        ]
+    }
+]
